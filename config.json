@@ -1,0 +1,13 @@
+{
+    "prefix": "ap!",
+    "token": "token mak b eng nv ng ?",
+    "emoji": {
+        "play": "▶️",
+        "stop": "⏹️",
+        "queue": "📄",
+        "success": "☑️",
+        "repeat": "🔁",
+        "error": "❌"
+    },
+    "altcode": "¦"
+}
